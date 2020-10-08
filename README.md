@@ -4,9 +4,9 @@ I like Deep Learning projects :robot: and I mostly use Python :snake: for this.
 
 For everything else I like to use Go :mouse:. I also really like working with Docker :whale: and Linux.
 
-:mushroom: :four_leaf_clover: :evergreen_tree: :deciduous_tree: :seedling: :mushroom: :four_leaf_clover: :evergreen_tree: :deciduous_tree: :seedling: 
+:mushroom: :four_leaf_clover: :evergreen_tree: :deciduous_tree: :seedling: :mushroom: :four_leaf_clover: :evergreen_tree: :deciduous_tree: :seedling: :mushroom: :four_leaf_clover: :evergreen_tree: :deciduous_tree: :seedling: :mushroom: :four_leaf_clover: :evergreen_tree: :deciduous_tree: :seedling: 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andres-zartab&count_private=true&hide=stars,issues&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andres-zartab&count_private=true&hide=stars,issues&show_icons=true&theme=tokyonight)
 
 <!--
 **andres-zartab/andres-zartab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
